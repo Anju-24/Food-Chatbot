@@ -2,13 +2,19 @@
 A mobile sms app to order food online 
 
 How do I get it set up?
+
 Steps to install, build and use this project.
 
 Install github in your machine.
+
 Run git clone command to clone the repository to local.
+
 Install node.js in your machine.
+
 Open the project in Visual Studio Code.
+
 Open terminal window.
+
 To run:
 
 1. Sign up for paypal developer sandbox and get a client id
