@@ -1,5 +1,6 @@
 # Food-Chatbot
 A mobile sms app to order food online 
+
 How do I get it set up?
 Steps to install, build and use this project.
 
